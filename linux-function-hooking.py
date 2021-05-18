@@ -4,6 +4,7 @@ import sys
 print("JIHOI FRIDA SCRIPT")
 ### PID or Process, Mode, Module, Function, #args
 ### preDefined =["4873","3","hi","f",2]
+preDefined = []
 
 template = """
 	const mode = "%s";
