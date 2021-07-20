@@ -1,5 +1,5 @@
 console.log("-------------------------------------------")
-console.log("Running [JIHOI FRIDA SCRIPT]")
+console.log("Running [BOB FRIDA SCRIPT]")
 console.log("-------------------------------------------")
 
 function getRandom(max) {
